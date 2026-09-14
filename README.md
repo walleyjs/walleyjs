@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Bashir Raji 👋
 
-**Senior Backend Engineer | Distributed Systems & High-Throughput Architecture**
+**Senior Software Engineer | Distributed Systems & High-Throughput Architecture**
 
 I am a systems-thinker with over 8 years of experience architecting and scaling backend infrastructure. I specialize in designing event-driven microservices, real-time communication pipelines, and resilient transaction ledgers. 
 
@@ -29,7 +29,7 @@ Whether I am building fintech payment gateways, high-frequency algorithmic tradi
 * **AI Integration:** Securely integrating LLM-based workflows and agentic capabilities into production systems.
 
 ### 💻 Tech Stack
-* **Languages:** Go, Node.js, TypeScript, Python, Rust
+* **Languages:** Go, Node.js, TypeScript, Python, Rust, React
 * **Databases:** PostgreSQL, Redis, MongoDB, DynamoDB
 * **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, Terraform
 * **Architecture:** gRPC, WebSockets, REST, Event-Driven Design, Microservices
