@@ -29,7 +29,7 @@ Whether I am building fintech payment gateways, high-frequency algorithmic tradi
 * **AI Integration:** Securely integrating LLM-based workflows and agentic capabilities into production systems.
 
 ### 💻 Tech Stack
-* **Languages:** Go, Node.js, TypeScript, Python, C#
+* **Languages:** Go, Node.js, TypeScript, Python, Rust
 * **Databases:** PostgreSQL, Redis, MongoDB, DynamoDB
 * **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, Terraform
 * **Architecture:** gRPC, WebSockets, REST, Event-Driven Design, Microservices
